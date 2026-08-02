@@ -1,0 +1,11 @@
+{
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestEnabled": false,
+    "python.analysis.include": [
+        "src/khoj/**/*"
+    ],
+    "python.analysis.aiHoverSummaries": false,
+}
